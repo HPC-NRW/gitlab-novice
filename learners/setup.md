@@ -24,5 +24,18 @@ If you already have an account, please make sure that you know your account cred
 Note that for a specific course, you might work on another GitLab instance.
 In that case you should follow the instructions given by the organizers.
 
+::: callout
+## Signing into git.nrw
+
+You will need to be able to log in to [git.nrw](https://gitlab.git.nrw/) for this lesson. To check
+that you can log in, please follow these steps:
+
+1. Go to <https://gitlab.git.nrw/> and select the "git.nrw University Login" button.
+2. Select your university from the list.
+3. Log in with your university credentials.
+4. If you can log in successfully, you will see your git.nrw dashboard.
+
+:::
+
 [GitLabSignUp]: https://gitlab.com/users/sign_up
 [GitLabSignIn]: https://gitlab.com/users/sign_in
