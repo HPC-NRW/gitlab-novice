@@ -75,7 +75,7 @@ The project dashboard page is the default homepage.
 However, the homepage is a configuration option for GitLab instances as well as individual users; the latter overriding the former.
 You may have changed that setting or an administrator might have changed the global configuration of the instance.
 
-You can always navigate to the project dashboard page by clicking on the GitLab logo in the upper left corner.
+You can always navigate to the project dashboard page by clicking on the git.nrw logo in the upper left corner.
 
 :::
 
@@ -108,14 +108,14 @@ You can use the filter field next to the tab names to search through all project
 
 ### Finding a project
 
-Use the search method we just told you about to find the project page for the software “Inkscape”.
+Use the search method we just told you about to find the project page for "2025-12-04-aachen-git-workshop".
 
 This exercise should take about 5 minutes.
 
 :::: solution
 
-The project page is located at <https://gitlab.com/inkscape/inkscape>.
-If you found yourself at https://gitlab.com/inkscape you found the group page of the Inkscape community.
+The project page is located at <https://gitlab.git.nrw/rwth-workshops/2025-12-04-aachen-git-workshop>.
+If you found yourself at <https://gitlab.git.nrw/rwth-workshops> you found the group page, not a repository.
 
 ::::
 
@@ -139,7 +139,7 @@ To make our lives easier later on, we introduce two terms regarding a group’s 
 
 ### Top-level groups and Subgroup
 
-On the group page https://gitlab.com/inkscape identify the top-level group’s name and one subgroup and contained project of that group.
+On the group page https://gitlab.git.nrw/rwth-workshops identify the top-level group’s name and one subgroup and contained project of that group.
 
 Hint: Note that groups cannot be starred.
 
@@ -147,7 +147,7 @@ This exercise should take about 5 minutes.
 
 :::: solution
 
-- The top-level group’s name is Inkscape as it is written at the top of the main content.
+- The top-level group’s name is RWTH-workshops as it is written at the top of the main content.
 - Any entry in the list “Subgroups and projects” is a subgroup or a contained project.
   First subgroups are listed prefixed by a three dot symbol, followed by the projects prefixed by a folder symbol.
 
@@ -160,7 +160,7 @@ You can navigate there by clicking on the GitLab logo in the upper right corner,
 
 You will only find one list of groups that is searchable and sortable using the widgets at the top right of the list.
 
-[GitLabSignIn]: https://gitlab.com/user/sign_in
+[GitLabSignIn]: https://gitlab.git.nrw/users/sign_in
 
 ::: keypoints
 
