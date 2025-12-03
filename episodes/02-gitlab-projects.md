@@ -146,6 +146,24 @@ This exercise should take about 5 minutes.
 
 :::
 
+::: challenge
+
+### Add Members to the Project (If skipping the "Collaboration" episode)
+
+Navigate the the "Manage" -> "Members" page of your project. Click the blue "Invite members" button
+on the top right of the page.
+
+Get the username of another participant and add them as a member to your project with the role
+"Reporter". Have someone else add you as a member to their project with the role "Reporter".
+
+What can you do in the project with that role? Are there options missing that you have on your
+own project?
+
+Go back to the Project Members page and change the role of the other participant to "Developer".
+What new options do you have now in the project?
+
+:::
+
 ::: callout
 
 ### Markdown
